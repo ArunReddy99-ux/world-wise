@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "c05f",
+      "cityName": "Kotturu",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-06-22T16:56:58.272Z",
+      "notes": "",
+      "position": {
+        "lat": "14.911008329102748",
+        "lng": "76.22314440552145"
+      }
+    },
+    {
+      "id": "da46",
+      "cityName": "Devanakonda",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-06-22T16:57:02.753Z",
+      "notes": "",
+      "position": {
+        "lat": "15.632128188457864",
+        "lng": "77.51953098725963"
+      }
+    }
+  ]
+}
